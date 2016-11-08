@@ -39,7 +39,7 @@ co(gen)
 
 
 ```
- ##### 4根据ret.done 来判断是否generator 内部也 yeild函数执行完成
+##### 4根据ret.done 来判断是否generator 内部也 yeild函数执行完成
 ##### 5如果没有执行完成 继续回调自己本身
 
 
