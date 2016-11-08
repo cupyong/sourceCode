@@ -1,0 +1,22 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "sourcecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "coide"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupyong/sourceCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupyong/sourceCode/issues"
+  },
+  "homepage": "https://github.com/cupyong/sourceCode#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
